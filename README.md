@@ -1,12 +1,12 @@
-# Projeto de Visão Computacional - Alfabeto de Libras
+# Brazilian Sign Language Alphabet Recognition
 
-Projeto desenvolvido para a disciplina de Visão Computacional cursada em 2022/1 n Departamento de Ciência da Computação da UFMG. Consiste na construção de um sistema de "tradução" do alfabeto de Libras para letras do alfabeto latino utilizando imagens. O sistema foi construído utilizando OpenCV e PyTorch.
+Project developed for the Computer Vision course taken in 2022/1 at the Department of Computer Science at UFMG. It consists of building a recognition system for the Brazilian Sign Language (Libras) alphabet to Latin letters using images. The system was built using OpenCV and PyTorch.
 
-### Descrição dos arquivos
+### Files description
 
-- `final_project_jessica_ramos.pdf`: Documento que detalha os passos desenvolvidos.
-- `image_capture_open_cv.py`: Script para captura das imagens que compoẽm o dataset.
-- `train_classifier.ipynb`: Notebook com o código para treino do modelo de classificação.
-- `train_detector.ipynb`: Notebook com o código para treino do modelo de detecção da mão (não utilizado no sistema final).
-- `predict.py`: Script para predição simultânea utilizando webcam.
-- `outputs/models/final_classification_model.pth`: Modelo de classificação final.
+- `final_project_jessica_ramos.pdf`: Paper describing the experiments and results.
+- `image_capture_open_cv.py`: Script to capture dataset images.
+- `train_classifier.ipynb`: Jupyter notebook with training code for the classification model.
+- `train_detector.ipynb`: Jupyter notebook with training code for the hand detection model (not used in final system).
+- `predict.py`: Script for real time prediction using a webcam.
+- `outputs/models/final_classification_model.pth`: Final classification model.
