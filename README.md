@@ -1,6 +1,6 @@
 # Projeto de Visão Computacional - Alfabeto de Libras
 
-Projeto desenvolvido para a disciplina de Visão Computacional cursada em 2022/1 na UFMG. Consiste na construção de um sistema de "tradução" do alfabeto de Libras para letras do alfabeto latino utilizando imagens. O sistema foi construído utilizando OpenCV e PyTorch.
+Projeto desenvolvido para a disciplina de Visão Computacional cursada em 2022/1 n Departamento de Ciência da Computação da UFMG. Consiste na construção de um sistema de "tradução" do alfabeto de Libras para letras do alfabeto latino utilizando imagens. O sistema foi construído utilizando OpenCV e PyTorch.
 
 ### Descrição dos arquivos
 
